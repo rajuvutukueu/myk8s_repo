@@ -8,3 +8,5 @@ Execute the following commands
 ●kubectl get pods/hello-pod
 ●kubectl get pods --all-namespaces
 ●kubectl delete pods/hello-pod
+
+//https://github.com/maha4dsvc/mahalogin
